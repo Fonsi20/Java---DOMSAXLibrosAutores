@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<listalibros>
+   <libro isbn="A4512">
+      <autor>
+         <apellido1>Fernandez</apellido1>
+         <apellido2>Alvare</apellido2>
+         <nombre>Fonsi</nombre>
+      </autor>
+      <titulo>El nombre del viento</titulo>
+      <precio>12,00</precio>
+   </libro>
+<libro isbn="B1212">
+      <autor>
+         <apellido1>Ismael</apellido1>
+         <apellido2>Michel</apellido2>
+         <nombre>Jhonny</nombre>
+      </autor>
+      <titulo>Mistborn</titulo>
+      <precio>54,00</precio>
+   </libro>
+<libro isbn="B0000">
+      <autor>
+         <apellido1>Love</apellido1>
+         <apellido2>Mcgrefory</apellido2>
+         <nombre>Emma</nombre>
+      </autor>
+      <titulo>Todo sobre mi madre</titulo>
+      <precio>10,00</precio>
+   </libro>
+<libro isbn="asdas">
+      <autor>
+         <apellido1>dasd</apellido1>
+         <apellido2>das</apellido2>
+         <nombre>da</nombre>
+      </autor>
+      <titulo>asddas</titulo>
+      <precio>10,00</precio>
+   </libro>
+<libro isbn="a124578">
+      <autor>
+         <apellido1>45</apellido1>
+         <apellido2>12</apellido2>
+         <nombre>A12</nombre>
+      </autor>
+      <titulo>A</titulo>
+      <precio>12,00</precio>
+   </libro>
+</listalibros>
